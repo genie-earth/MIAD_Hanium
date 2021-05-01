@@ -45,20 +45,20 @@
 
 ---
 ### 전체 시스템 구성도
-![](https://github.com/zbumjin97/Hanium/blob/main/MIAD_system.jpg)
+![](https://github.com/genie-earth/MIAD_Hanium/blob/main/MIAD_system.jpg)
 ### MIAD HW 구성도
-![](https://github.com/zbumjin97/Hanium/blob/main/MIAD_hw.jpg)
+![](https://github.com/genie-earth/MIAD_Hanium/blob/main/MIAD_hw.jpg)
 ### MIAD DNN Training 구성도
-![](https://github.com/zbumjin97/Hanium/blob/main/MIAD_dnn_training.jpg)
+![](https://github.com/genie-earth/MIAD_Hanium/blob/main/MIAD_dnn_training.jpg)
 ### MIAD SW 구성도
-![](https://github.com/zbumjin97/Hanium/blob/main/MIAD_sw.jpg)
+![](https://github.com/genie-earth/MIAD_Hanium/blob/main/MIAD_sw.jpg)
 
 
 ---
 ### MIAD 3D 모델링
-![](https://github.com/zbumjin97/Hanium/blob/main/MIAD_3Dmodel.jpg)
+![](https://github.com/genie-earth/MIAD_Hanium/blob/main/MIAD_3Dmodel.jpg)
 ### MIAD 마스크 레이블 인식 및 ROS 송수신
-![](https://github.com/zbumjin97/Hanium/blob/main/MIAD_classification.png)
+![](https://github.com/genie-earth/MIAD_Hanium/blob/main/MIAD_classification.png)
 ### MIAD 웹캠 디스플레이
-![](https://github.com/zbumjin97/Hanium/blob/main/MIAD_display.png)
+![](https://github.com/genie-earth/MIAD_Hanium/blob/main/MIAD_display.png)
 ### [MIAD 구현 영상](https://www.youtube.com/watch?v=zmJI079PcNQ)
